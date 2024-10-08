@@ -1,0 +1,22 @@
+button {
+    font: inherit;
+    cursor: pointer;
+    background: #230052;
+    border: 1px solid #230052;
+    color: white;
+    padding: 0.75rem 2rem;
+    border-radius: 20px;
+    margin-top: 20px;
+  }
+
+  input{
+    border: 2px solid black;
+    border-radius: 4px;
+    height: 25px;
+    width: 50%;
+  }
+
+  label{
+    margin-top: 20px;
+  }
+  
